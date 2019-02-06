@@ -1,5 +1,5 @@
 # Swedish cities
-A csv list of Swedish cities, towns and communities.
+A csv list of Swedish cities, towns, municipalities, population.
 
 ## License
 
