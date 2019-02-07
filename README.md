@@ -1,5 +1,13 @@
 # Swedish cities
-A csv list of Swedish cities, towns, municipalities, population.
+A `.csv` list of Swedish cities, towns with their municipality, latitude and longitude in [wgs84](https://en.wikipedia.org/wiki/World_Geodetic_System#A_new_World_Geodetic_System:_WGS_84) format.
+
+| Locality | Municipality | Latitude | Longitude |
+|:------------- |:------------- | -----:| -----: |
+| Göteborg | Göteborgs kommun | 57.7072326 | 11.9670171 |
+| Helsingborg | Helsingborgs kommun | 56.0441984 | 12.7040684 |
+| Malmö | Malmö kommun | 55.6052931 | 13.0001566 |
+| Norrköping | Norrköpings kommun | 58.5909124 | 16.1903511 |
+| Stockholm | Stockholms kommun | 59.3251172 | 18.0710935 |
 
 ## License
 
