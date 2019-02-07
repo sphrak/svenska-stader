@@ -10,8 +10,8 @@ Allerum,Helsingborgs kommun,56.12857975,12.6684275708261
 Almunge,Uppsala kommun,59.8773068,18.0461233
 Alsike,Knivsta kommun,59.7566269,17.7635873
 Alstad,Trelleborgs kommun,55.4543742,13.2095014
-Alster,Karlstads kommun,59.3981176,13.6084317
 Alsterbro,Nybro kommun,56.9402572,15.9139431
+Alster,Karlstads kommun,59.3981176,13.6084317
 Alstermo,Uppvidinge kommun,56.9742714,15.6526808
 Alunda,Östhammars kommun,60.0664532,18.0780717
 Alvesta,Alvesta kommun,56.86382675,14.447930994592
@@ -54,8 +54,8 @@ Aspås,Krokoms kommun,63.3650346,14.4847004
 Avan,Luleå kommun,66.1091337,22.3001432
 Avesta,Avesta kommun,60.1469553,16.1826996
 Axvall,Skara kommun,58.3891661,13.5747695
-Backa,Rättviks kommun,60.6608429,17.0767427
 Backaryd,Ronneby kommun,56.3472091,15.1544828
+Backa,Rättviks kommun,60.6608429,17.0767427
 Backe,Strömsunds kommun,62.2735992,17.1431224
 Baggetorp,Vingåkers kommun,58.9052779,14.6080425
 Baldersnäs,Värmdö kommun,58.9627059,12.277522
@@ -74,16 +74,15 @@ Beddingestrand,Trelleborgs kommun,55.3606336,13.4251847
 Bengtsfors,Bengtsfors kommun,59.0116448,12.2455494253837
 Bengtsheden,Falu kommun,60.7007177,15.870233
 Bensbyn,Luleå kommun,65.639826,22.2396659
-Berg,Gävle kommun,62.6895715,14.3566332451726
-Berg,Linköpings kommun,62.6895715,14.3566332451726
-Berg,Åtvidabergs kommun,62.6895715,14.3566332451726
+Bergagård,Falkenbergs kommun,56.9815167,12.5775003
 Berga,Högsby kommun,56.0755325,12.7215310518411
 Berga,Norrköpings kommun,56.0755325,12.7215310518411
-Bergagård,Falkenbergs kommun,56.9815167,12.5775003
 Bergby,Gävle kommun,60.9290646,17.0410031
 Bergeforsen,Timrå kommun,62.526318,17.3739827
+Berg,Gävle kommun,62.6895715,14.3566332451726
 Berghem,Marks kommun,61.5464049,16.9811666
 Bergkvara,Torsås kommun,56.3907509,16.070362
+Berg,Linköpings kommun,62.6895715,14.3566332451726
 Bergnäset,Luleå kommun,65.5682242,22.1101459
 Bergshammar,Nyköpings kommun,58.741404,16.912554
 Bergshamra,Norrtälje kommun,59.6395313,18.6564963
@@ -92,6 +91,7 @@ Bergströmshusen,Staffanstorps kommun,55.6766809,13.1733609
 Bergsviken,Piteå kommun,65.307803,21.390501
 Bergsäng,Hagfors kommun,60.1118421,13.5674421
 Bergvik,Söderhamns kommun,61.2553522,16.8325443
+Berg,Åtvidabergs kommun,62.6895715,14.3566332451726
 Bestorp,Linköpings kommun,58.2334751,15.7332185
 Betsede,Värmdö kommun,59.3297852,18.431584
 Bettna,Flens kommun,58.9072551,16.6387139
@@ -117,8 +117,8 @@ Björketorp,Marks kommun,57.4261568,12.523757
 Björklinge,Uppsala kommun,60.0291369,17.551431
 Björkskatan,Luleå kommun,65.61585,22.177784
 Björkvik,Katrineholms kommun,58.8397725,16.5138323
-Björkö,Öckerö kommun,57.86431,16.6566706875477
 Björköby,Vetlanda kommun,57.5192168,14.9059189
+Björkö,Öckerö kommun,57.86431,16.6566706875477
 Björna,Örnsköldsviks kommun,63.73584245,18.4497232810842
 Björneborg,Kristinehamns kommun,55.4862458,13.3850363701555
 Björnlunda,Gnesta kommun,59.0660266,17.159785
@@ -135,21 +135,21 @@ Blomstermåla,Mönsterås kommun,56.9845703,16.3286835
 Blåsmark,Piteå kommun,65.2652847,21.2927158
 Blötberget,Ludvika kommun,60.1267746,15.0587897
 Bockara,Oskarshamns kommun,57.2618364,16.0651399
-Boda,Rättviks kommun,59.6611068,16.8945975
 Bodafors,Nässjö kommun,57.5052622,14.7033794
+Boda,Rättviks kommun,59.6611068,16.8945975
 Boden,Bodens kommun,65.8275004,21.6964105
 Boliden,Skellefteå kommun,64.8670486,20.3873335
 Bollebygd,Bollebygds kommun,57.744516,12.5831872822911
 Bollnäs,Bollnäs kommun,61.31830325,16.3967939462856
 Bollstabruk,Kramfors kommun,62.9971425,17.6757247
 Bonäs,Mora kommun,61.0715557,14.4858613
-Bor,Värnamo kommun,57.1178356,14.1567080247176
 Borensberg,Motala kommun,58.5656587,15.2802181
 Borggård,Finspångs kommun,58.7302031,15.5589908
 Borgholm,Borgholms kommun,56.8799276,16.6561377
 Borgstena,Borås kommun,57.8838055,13.0131695
 Borlänge,Borlänge kommun,60.4856426,15.4234561
 Borrby,Simrishamns kommun,55.4580331,14.1808853
+Bor,Värnamo kommun,57.1178356,14.1567080247176
 Borås,Borås kommun,57.7210839,12.9407407
 Bosnäs,Borås kommun,57.6683339,12.8442636
 Botsmark,Umeå kommun,64.2534035,20.2461959
@@ -164,15 +164,15 @@ Bredaryd,Värnamo kommun,57.1741048,13.7389376
 Bredbyn,Örnsköldsviks kommun,62.1985274,17.2309674
 Bredsand,Enköpings kommun,62.34202275,17.3722690435238
 Bredviken,Kalix kommun,62.4815968,16.4608909
-Bro,Upplands-Bro kommun,57.6692989,18.472247
 Broaryd,Gislaveds kommun,57.1202315,13.2583524
 Broby,Östra Göinge kommun,59.8647821,17.8252862
 Brokind,Linköpings kommun,58.2181536,15.6814626
 Bromölla,Bromölla kommun,56.076158,14.4681732
 Brottby,Vallentuna kommun,59.5609596,18.238716
-Brunn,Värmdö kommun,57.8006825,13.3695137
+Bro,Upplands-Bro kommun,57.6692989,18.472247
 Brunna,Upplands-Bro kommun,60.2622223,16.0101293
 Brunnsberg,Älvdalens kommun,61.2077169,14.1196749
+Brunn,Värmdö kommun,57.8006825,13.3695137
 Bruzaholm,Eksjö kommun,57.6424632,15.2719703
 Brålanda,Vänersborgs kommun,58.5633121,12.3507401
 Bräcke,Bräcke kommun,62.7521274,15.4198705
@@ -211,11 +211,12 @@ Bäsna,Gagnefs kommun,60.5411314,15.2077918
 Böle,Piteå kommun,65.3861517,21.3225391
 Bönan,Gävle kommun,60.7361314,17.3032168
 Charlottenberg,Eda kommun,59.8839607,12.3049207
+Dala-Floda,Gagnefs kommun,60.5076925,14.79673
 Dalarö,Haninge kommun,59.1335185,18.4052397
 Dalby,Lunds kommun,55.6646637,13.3461589
+Dalsjöfors,Borås kommun,57.7216986,13.1069626
 Dals Långed,Bengtsfors kommun,58.9259057,12.3063826
 Dals Rostock,Melleruds kommun,58.7140856,12.3556541
-Dalsjöfors,Borås kommun,57.7216986,13.1069626
 Dalstorp,Tranemo kommun,57.6055738,13.5116572
 Dalum,Ulricehamns kommun,57.9002966,13.4649246
 Danholn,Falu kommun,60.6195452,15.7929596
@@ -234,8 +235,8 @@ Diö,Älmhults kommun,56.6393813,14.2211316
 Djupekås,Sölvesborgs kommun,56.0706821,14.7214034
 Djura,Leksands kommun,60.612263,15.0054703
 Djurås,Gagnefs kommun,60.560541,15.1303132
-Djurö,Värmdö kommun,58.86379765,13.4705056438116
 Djurön,Norrköpings kommun,58.6292733,16.3471657
+Djurö,Värmdö kommun,58.86379765,13.4705056438116
 Docksta,Kramfors kommun,63.0573209,18.327456
 Domsten,Helsingborgs kommun,56.1196938,12.6073088
 Donsö,Göteborgs kommun,57.6015754,11.8034621075405
@@ -249,19 +250,20 @@ Duvesjön,Kungälvs kommun,57.9531858,12.0186317
 Dvärsätt,Krokoms kommun,63.3024114,14.4731993
 Dyvelsten,Forshaga kommun,59.5140428,13.4381483
 Dösjebro,Kävlinge kommun,55.8199778,13.0304533
-Ed,Dals-Eds kommun,58.9125825,11.9340137
 Eda Glasbruk,Eda kommun,59.9213356,12.2633766
 Edane,Arvika kommun,59.62982,12.8229215
+Ed,Dals-Eds kommun,58.9125825,11.9340137
+Edeby,Knivsta kommun,59.8119017,17.7758236
 Edsbro,Norrtälje kommun,59.8951281,18.4923786
 Edsbruk,Västerviks kommun,58.0195774,16.4674596
 Edsbyn,Ovanåkers kommun,61.3774428,15.8181755
 Edsta,Hudiksvalls kommun,61.7737708,17.0037102
 Edsvalla,Karlstads kommun,59.4369756,13.2103442
 Eggby,Skara kommun,58.4339651,13.6451126
+Ekeby-Almby,Örebro kommun,59.2584695,15.3368752
 Ekeby,Bjuvs kommun,57.5955391,18.5140103
 Ekeby,Kumla kommun,57.5955391,18.5140103
 Ekeby,Södertälje kommun,57.5955391,18.5140103
-Ekeby-Almby,Örebro kommun,59.2584695,15.3368752
 Ekedalen,Tidaholms kommun,59.9907066,17.2993053
 Ekenässjön,Vetlanda kommun,57.4918386,15.0209543
 Ekerö,Ekerö kommun,59.3555916,17.6224213225656
@@ -331,7 +333,6 @@ Fleninge,Helsingborgs kommun,56.1083353,12.7915362
 Flerohopp,Nybro kommun,56.822755,15.8768402
 Fliseryd,Mönsterås kommun,57.1241074,16.2631299
 Floby,Falköpings kommun,58.138443,13.3362213
-Dala-Floda,Gagnefs kommun,60.5076925,14.79673
 Flurkmark,Umeå kommun,63.9824036,20.2366005
 Flygsfors,Nybro kommun,56.8393914,15.7791869
 Flyinge,Eslövs kommun,55.7534529,13.3685462
@@ -431,9 +432,9 @@ Gropen,Lekebergs kommun,59.1620627,14.8305666
 Grums,Grums kommun,59.3987245,13.0346488684622
 Grundsund,Lysekils kommun,58.2133642,11.4192441
 Grycksbo,Falu kommun,60.6892908,15.4875998
-Gryt,Valdemarsviks kommun,59.2137396,15.2584518
 Grytgöl,Finspångs kommun,58.8018612,15.555081
 Grythyttan,Hällefors kommun,59.7056246,14.5367071
+Gryt,Valdemarsviks kommun,59.2137396,15.2584518
 Gråbo,Lerums kommun,57.838561,12.2991979
 Gräddö,Norrtälje kommun,59.7641685,19.0321376
 Gräfsnäs,Alingsås kommun,58.0810509,12.492747
@@ -483,8 +484,8 @@ Hagfors,Hagfors kommun,60.0879941,13.6465853375158
 Hagge,Smedjebackens kommun,60.1245515,15.2812628
 Hagryd-Dala,Kungsbacka kommun,57.5302039,11.9760544
 Hakkas,Gällivare kommun,66.9164587,21.566148
-Halla Heberg,Kungsbacka kommun,57.4652848,11.9881661
 Hallabro,Ronneby kommun,56.3901626,15.1026861
+Halla Heberg,Kungsbacka kommun,57.4652848,11.9881661
 Hallen,Åre kommun,57.7169595,12.3885437
 Hallsberg,Hallsbergs kommun,58.9931311,15.3277300968136
 Hallstahammar,Hallstahammars kommun,59.6134488,16.2301613
@@ -494,8 +495,8 @@ Halmstad,Halmstads kommun,56.6739826,12.8574827
 Halvarsgårdarna,Borlänge kommun,60.4059609,15.3867427
 Hamburgsund,Tanums kommun,58.5536092,11.2736858
 Hammar,Askersunds kommun,56.0319891,14.204713
-Hammar,Kristianstads kommun,56.0319891,14.204713
 Hammarby,Sandvikens kommun,59.8193917,17.7821886
+Hammar,Kristianstads kommun,56.0319891,14.204713
 Hammarslund,Kristianstads kommun,56.0178639,14.1933142
 Hammarstrand,Ragunda kommun,63.1085771,16.3558429
 Hammenhög,Simrishamns kommun,55.5032469,14.1521443
@@ -503,8 +504,8 @@ Hammerdal,Strömsunds kommun,63.5824698,15.3541733
 Hampetorp,Örebro kommun,59.1400685,15.6683533
 Hanaskog,Östra Göinge kommun,56.1590645,14.0934119
 Haparanda,Haparanda kommun,65.835667,24.1357213
-Hara,Östersunds kommun,63.0392511,14.4627053
 Harads,Bodens kommun,66.0885158,20.9441733
+Hara,Östersunds kommun,63.0392511,14.4627053
 Harbo,Heby kommun,60.1083678,17.2099617
 Hargshamn,Östhammars kommun,60.1677683,18.4849255
 Harkie,Västerås kommun,59.5318908,16.714112
@@ -556,8 +557,8 @@ Hjorted,Västerviks kommun,57.6205904,16.3030101
 Hjortkvarn,Hallsbergs kommun,58.9005609,15.4344844
 Hjortnäs,Leksands kommun,60.7949183,14.9674658
 Hjortsberga,Alvesta kommun,56.9142971,14.453907
-Hjälm,Kungsbacka kommun,58.086516,11.601715
 Hjälmared,Alingsås kommun,57.5418256,12.1511214
+Hjälm,Kungsbacka kommun,58.086516,11.601715
 Hjältevad,Eksjö kommun,57.6291005,15.3431874
 Hjärnarp,Ängelholms kommun,56.3168621,12.9178435
 Hjärsås,Östra Göinge kommun,56.2078662,14.1479642
@@ -568,16 +569,16 @@ Hofterup,Kävlinge kommun,55.7983323,12.976774
 Hogstad,Mjölby kommun,58.3307684,15.0261941
 Hogstorp,Uddevalla kommun,58.3964735,11.7577872
 Hok,Vaggeryds kommun,57.5172107,14.2744352
-Holm,Halmstads kommun,62.67957875,16.5297603399097
 Holmeja,Svedala kommun,55.5549328,13.273687
+Holm,Halmstads kommun,62.67957875,16.5297603399097
 Holmsjö,Karlskrona kommun,56.4202517,15.538952
 Holmsund,Umeå kommun,63.7081736,20.3730033
 Holsbybrunn,Vetlanda kommun,57.4372796,15.1995143
 Holsljunga,Svenljunga kommun,57.4133222,12.9735956
 Horda,Värnamo kommun,57.0373677,14.2582154
 Horla,Vårgårda kommun,57.9677284,12.7282506
-Horn,Kinda kommun,58.5238343,13.8927619
 Horndal,Avesta kommun,60.291412,16.4021853
+Horn,Kinda kommun,58.5238343,13.8927619
 Horred,Marks kommun,57.3585489,12.4729595
 Hortlax,Piteå kommun,65.2801433,21.403477
 Hoting,Strömsunds kommun,64.115163,16.2025083
@@ -588,8 +589,8 @@ Hovmantorp,Lessebo kommun,56.7894229,15.1346655
 Hovsta,Örebro kommun,59.3465704,15.2273922
 Huaröd,Kristianstads kommun,55.8403682,13.9682705
 Hudiksvall,Hudiksvalls kommun,61.7282737,17.1047086
-Hult,Eksjö kommun,58.5361573,15.6905627
 Hultafors,Bollebygds kommun,57.6958035,12.7344574
+Hult,Eksjö kommun,58.5361573,15.6905627
 Hultsfred,Hultsfreds kommun,57.3947935,15.7751611195776
 Hulu,Ulricehamns kommun,57.1611909,14.9241044
 Hummelsta,Enköpings kommun,59.6257233,16.9485569
@@ -621,8 +622,8 @@ Hällevik,Sölvesborgs kommun,56.0137816,14.6969686
 Hällingsjö,Härryda kommun,57.6182864,12.4359632
 Hällnäs,Vindelns kommun,64.3076515,19.623205
 Hälsö,Öckerö kommun,57.7348847,11.6524153541053
-Härad,Strängnäs kommun,59.3612881,16.9015677
 Häradsbygden,Leksands kommun,60.7022298,15.0471167
+Härad,Strängnäs kommun,59.3612881,16.9015677
 Härnösand,Härnösands kommun,62.6323084,17.9379914
 Härryda,Härryda kommun,57.6691896,12.2959112480538
 Härslöv,Landskrona kommun,55.9324062,12.8760237
@@ -724,10 +725,10 @@ Katrineholm,Katrineholms kommun,59.0163463,16.3242282570608
 Kattarp,Helsingborgs kommun,56.19349115,12.7552867864474
 Kaxholmen,Jönköpings kommun,57.8540048,14.3075873
 Kebal,Strömstads kommun,58.9525534,11.1529318
-Kil,Kils kommun,59.5671073,13.1905446893647
-Kil,Nacka kommun,59.5671073,13.1905446893647
 Kilafors,Bollnäs kommun,61.228627,16.5671181
+Kil,Kils kommun,59.5671073,13.1905446893647
 Killeberg,Osby kommun,56.4758692,14.0969548
+Kil,Nacka kommun,59.5671073,13.1905446893647
 Kilsmo,Örebro kommun,59.0685529,15.5391697
 Kimstad,Norrköpings kommun,58.5489217,15.9689066
 Kinna,Marks kommun,57.5077648,12.6928229
@@ -815,8 +816,8 @@ Kyrkesund,Tjörns kommun,58.015795,11.5149447
 Kyrkheddinge,Staffanstorps kommun,55.6491407,13.2680066
 Kyrkhult,Olofströms kommun,55.8324247,13.7247349
 Kyrksten,Storfors kommun,59.4376662,14.3929463
-Kåge,Skellefteå kommun,64.8351736,20.9848115
 Kågeröd,Svalövs kommun,55.999056,13.0883139
+Kåge,Skellefteå kommun,64.8351736,20.9848115
 Kåhög,Partille kommun,57.7504212,12.1515885
 Kållekärr,Tjörns kommun,58.0260513,11.6601067
 Kånna,Ljungby kommun,56.7818054,13.9039445
@@ -832,8 +833,8 @@ Kättilsmåla,Karlskrona kommun,56.2691774,15.7364839
 Kättilstorp,Falköpings kommun,56.8251676,14.7774833
 Kävlinge,Kävlinge kommun,55.7912944,13.1073471
 Köinge,Falkenbergs kommun,57.0642098,12.6451743
-Köping,Köpings kommun,59.579954,15.8790217384978
 Köpingebro,Ystads kommun,55.4524524,13.9354174
+Köping,Köpings kommun,59.579954,15.8790217384978
 Köpmanholmen,Örnsköldsviks kommun,63.1694675,18.5546217
 Lagan,Ljungby kommun,57.238215,14.0699778
 Laggarberg,Timrå kommun,62.4641772,17.2586889
@@ -889,9 +890,9 @@ Linneryd,Tingsryds kommun,56.6608453,15.1245726
 Listerby,Ronneby kommun,56.1964035,15.4022684
 Lit,Östersunds kommun,63.3166572,14.8499459
 Ljunga,Norrköpings kommun,58.577125,16.3076375
-Ljungby,Ljungby kommun,56.8325886,13.9359916
 Ljungbyhed,Klippans kommun,56.0744425,13.2335627
 Ljungbyholm,Kalmars kommun,56.6339754,16.1683753
+Ljungby,Ljungby kommun,56.8325886,13.9359916
 Ljungsarp,Tranemo kommun,57.5651043,13.5833308
 Ljungsbro,Linköpings kommun,58.5081326,15.5026182
 Ljungskile,Uddevalla kommun,58.2246504,11.9198287
@@ -908,13 +909,13 @@ Lucksta,Sundsvalls kommun,62.30151575,17.0519306804062
 Luddingsbo,Söderköpings kommun,58.507934,16.1375394
 Ludvika,Ludvika kommun,60.1503771,15.1813989
 Lugnet och Skälsmara,Värmdö kommun,59.2558703,18.5356274
+Lugnvik,Kramfors kommun,57.7668889,12.2163011
 Lugnås,Mariestads kommun,58.6440231,13.6999699
 Luleå,Luleå kommun,65.5831352,22.1460134
-Lund,Lunds kommun,55.7029296,13.1929449
 Lundby,Kungälvs kommun,59.6712307,17.0474323
 Lunde,Kramfors kommun,61.9741378,17.2415517
+Lund,Lunds kommun,55.7029296,13.1929449
 Lundsbrunn,Götene kommun,58.4715912,13.4452633
-Lugnvik,Kramfors kommun,57.7668889,12.2163011
 Lunnarp,Tomelilla kommun,55.5438948,14.0407163
 Lunne,Östersunds kommun,63.7847325,17.6576206
 Lurudden,Ekerö kommun,59.2746859,17.7082601
@@ -927,8 +928,8 @@ Långared,Alingsås kommun,58.0453328,12.5206692
 Långasjö,Emmaboda kommun,56.4294535,15.4614716
 Långsele,Sollefteå kommun,63.18511545,17.056398143243
 Långshyttan,Hedemora kommun,60.4517732,16.0323485
-Långvik,Värmdö kommun,65.4164755,21.8505865
 Långviksmon,Örnsköldsviks kommun,63.6314771,18.6984028
+Långvik,Värmdö kommun,65.4164755,21.8505865
 Långås,Falkenbergs kommun,56.9791321,12.4479076
 Läby,Uppsala kommun,60.0884261,17.5553792
 Läckeby,Kalmars kommun,56.7829083,16.294941
@@ -972,8 +973,8 @@ Marieholm,Eslövs kommun,55.8641443,13.1515333
 Marielund,Strängnäs kommun,59.838943,17.8705436
 Mariestad,Mariestads kommun,58.8009771,13.7516623528949
 Markaryd,Markaryds kommun,56.4596131,13.5919834
-Marma,Älvkarleby kommun,59.7842453,17.8398202
 Marmaskogen,Söderhamns kommun,61.2789535,16.8964023
+Marma,Älvkarleby kommun,59.7842453,17.8398202
 Marmorbyn,Vingåkers kommun,59.0452398,16.0696967
 Marstrand,Kungälvs kommun,57.8867618,11.5887974
 Matfors,Sundsvalls kommun,62.3467693,17.0199791
@@ -993,8 +994,8 @@ Mjölby,Mjölby kommun,58.2953913,15.1790644348417
 Mjönäs,Hagfors kommun,59.8794529,13.55936
 Mockfjärd,Gagnefs kommun,60.5028991,14.9599557
 Mogata,Söderköpings kommun,58.4511278,16.4517857
-Mohed,Söderhamns kommun,61.2945405,16.8270511
 Moheda,Alvesta kommun,57.0043559,14.572811
+Mohed,Söderhamns kommun,61.2945405,16.8270511
 Moholm,Töreboda kommun,58.6070279,14.0383395
 Moliden,Örnsköldsviks kommun,63.3792944,18.4555731
 Molkom,Karlstads kommun,59.602235,13.728668
@@ -1047,9 +1048,9 @@ Nordkroken,Vänersborgs kommun,58.382685,12.41426
 Nordmaling,Nordmalings kommun,63.4755324,19.5484863131267
 Nordöstra Göteborg,Göteborgs kommun,57.86171545,11.5172476156328
 Norje,Sölvesborgs kommun,56.122104,14.6687451
-Norr Amsberg,Borlänge kommun,60.5304723,15.3561558
 Norra Bro,Örebro kommun,59.2265849,15.2505183
 Norra Lagnö,Värmdö kommun,59.3542595,18.4083463
+Norr Amsberg,Borlänge kommun,60.5304723,15.3561558
 Norra Muskö,Haninge kommun,58.99583085,18.1148577704462
 Norra Riksten,Botkyrka kommun,59.1890715,17.9157077
 Norra Rörum,Höörs kommun,56.0176555,13.5075043
@@ -1071,8 +1072,8 @@ Nya Långenäs,Härryda kommun,57.6561382,12.165207
 Nyborg,Kalix kommun,59.8372803,17.535841
 Nybro,Nybro kommun,56.7452259,15.9061542
 Nybrostrand,Ystads kommun,55.433008,13.9502983
-Nye,Vetlanda kommun,57.3436152,15.2740678
 Nyehusen,Kristianstads kommun,55.8540108,14.2252624
+Nye,Vetlanda kommun,57.3436152,15.2740678
 Nygård,Lilla Edets kommun,56.9622633,14.8350245
 Nyhammar,Ludvika kommun,60.2924427,14.9696544
 Nykil,Linköpings kommun,58.22165015,15.5007006228838
@@ -1115,8 +1116,8 @@ Orrefors,Nybro kommun,56.8394787,15.7486171
 Orrhammar,Flens kommun,59.08054,16.5635665
 Orrviken,Östersunds kommun,63.1063517,14.4371713
 Orsa,Orsa kommun,61.1201175,14.6222536
-Osby,Osby kommun,56.3827464,13.9932853
 Osbyholm,Hörby kommun,55.8482104,13.6108395
+Osby,Osby kommun,56.3827464,13.9932853
 Oskarshamn,Oskarshamns kommun,57.2632811,16.4443478
 Oskarström,Halmstads kommun,56.8015614,12.976093
 Ostvik,Skellefteå kommun,64.881956,21.0638182
@@ -1162,8 +1163,8 @@ Rimbo,Norrtälje kommun,59.7453192,18.3601765
 Rimforsa,Kinda kommun,58.1378296,15.6762024
 Rindö,Vaxholms kommun,59.40183,18.372286
 Ringarum,Valdemarsviks kommun,58.3337836,16.4444307
-Rinkaby,Kristianstads kommun,55.9821446,14.273104
 Rinkabyholm,Kalmars kommun,56.6545939,16.2611897
+Rinkaby,Kristianstads kommun,55.9821446,14.273104
 Risby,Kungälvs kommun,57.8944956,11.8509627
 Rishammar,Kungälvs kommun,57.9061843,11.9360179
 Risögrund,Kalix kommun,65.81074715,23.244968111893
@@ -1176,35 +1177,35 @@ Rolfs,Kalix kommun,65.8462766,23.1243709
 Rolfstorp,Varbergs kommun,57.1452538,12.45987
 Romakloster,Gotlands kommun,57.5073932,18.4506134
 Romme,Borlänge kommun,60.4425048,15.4827223
-Ronneby,Ronneby kommun,56.2100417,15.2760355
 Ronnebyhamn,Ronneby kommun,56.1740542,15.2921862
+Ronneby,Ronneby kommun,56.2100417,15.2760355
 Rosenfors,Hultsfreds kommun,57.3628217,15.8392691
 Rosenlund,Tranemo kommun,57.5266612,13.3444779
 Rosersberg,Sigtuna kommun,59.5817322,17.8881759
 Rossön,Strömsunds kommun,63.92871415,16.3143114877062
 Rosvik,Piteå kommun,65.426626,21.692732
-Rot,Älvdalens kommun,61.256161,14.0381136
 Roteberg,Ovanåkers kommun,61.3947768,15.8382787
-Rottne,Växjö kommun,57.0216769,14.8921004
 Rottneros,Sunne kommun,59.7963964,13.1093853
-Rud,Hammarö kommun,57.786236,13.8653925
+Rottne,Växjö kommun,57.0216769,14.8921004
+Rot,Älvdalens kommun,61.256161,14.0381136
 Ruda,Högsby kommun,58.98194,15.8638716
+Rud,Hammarö kommun,57.786236,13.8653925
 Rundvik,Nordmalings kommun,63.5411515,19.4402035
 Runemo,Ovanåkers kommun,61.355796,16.1436643
 Runtuna,Nyköpings kommun,58.8729859,17.0744307
 Rusksele,Lycksele kommun,64.8150667,18.8992626
 Rutvik,Luleå kommun,65.6701785,22.0898509
 Rya,Härryda kommun,58.0563702,13.3327314
-Ryd,Alingsås kommun,58.2208651,13.3724896
-Ryd,Jönköpings kommun,58.2208651,13.3724896
-Ryd,Tingsryds kommun,58.2208651,13.3724896
 Rydaholm,Värnamo kommun,56.9871882,14.3098574
+Ryd,Alingsås kommun,58.2208651,13.3724896
 Rydal,Marks kommun,57.556172,12.6936677
-Rydbo,Österåkers kommun,59.4636266,18.1850248
 Rydboholm,Borås kommun,57.6543359,12.8843624
+Rydbo,Österåkers kommun,59.4636266,18.1850248
 Rydebäck,Helsingborgs kommun,55.9664444,12.7806774
+Ryd,Jönköpings kommun,58.2208651,13.3724896
 Rydsgård,Skurups kommun,55.4707894,13.5882902
 Rydsnäs,Ydre kommun,57.8000215,15.1465728
+Ryd,Tingsryds kommun,58.2208651,13.3724896
 Rydöbruk,Hylte kommun,56.9608591,13.1433459
 Ryssby,Ljungby kommun,56.8644924,14.1679128
 Råby,Håbo kommun,59.8977164,17.6755914
@@ -1246,8 +1247,8 @@ Sandviken,Södertälje kommun,60.619422,16.7724214
 Sangis,Kalix kommun,65.8557891,23.4957498
 Sankt Olof,Simrishamns kommun,55.636693,14.1292427
 Saxdalen,Ludvika kommun,60.1508772,14.9762206
-Saxtorpsskogen,Landskrona kommun,55.8289884,12.9421429
 Saxnäs,Mörbylånga kommun,56.6866512,16.4919553
+Saxtorpsskogen,Landskrona kommun,55.8289884,12.9421429
 Segersta,Bollnäs kommun,61.2666933,16.6450524
 Segersäng,Nynäshamns kommun,59.0270207,17.9296523
 Segmon,Grums kommun,59.2747878,13.0426532
@@ -1288,8 +1289,8 @@ Skattungbyn,Orsa kommun,61.1857383,14.8481986
 Skavkulla och Skillingenäs,Karlskrona kommun,56.1784421,15.5186593
 Skebobruk,Norrtälje kommun,59.968548,18.6120159
 Skebokvarn,Flens kommun,59.0614824,16.7081053
-Skeda udde,Linköpings kommun,58.2916744,15.559967
 Skedala,Halmstads kommun,56.693218,12.9738593
+Skeda udde,Linköpings kommun,58.2916744,15.559967
 Skede,Vetlanda kommun,63.2505415,19.004406
 Skedvi kyrkby,Säters kommun,60.4033685,15.8127902
 Skee,Strömstads kommun,58.924422,11.2681523
@@ -1352,8 +1353,8 @@ Solberga,Kungälvs kommun,58.3514152,15.5073044
 Solberga,Nässjö kommun,58.3514152,15.5073044
 Solberga,Österåkers kommun,58.3514152,15.5073044
 Sollebrunn,Alingsås kommun,58.1199996,12.5331113
-Sollefteå,Sollefteå kommun,63.1680239,17.2654472
 Sollefteå norra,Sollefteå kommun,63.1680239,17.2654472
+Sollefteå,Sollefteå kommun,63.1680239,17.2654472
 Sollerön,Mora kommun,60.91329875,14.6157400928211
 Solvarbo,Säters kommun,60.3902408,15.6708337
 Sommen,Tranås kommun,58.01550215,15.212850755363
@@ -1392,8 +1393,8 @@ Stigtomta,Nyköpings kommun,58.8027639,16.7853448
 Stilleryd,Karlshamns kommun,56.1731491,14.8198856
 Stjärnhov,Gnesta kommun,59.080099,17.0136626
 Stoby,Hässleholms kommun,56.1755969,13.8279244
-Stocka,Nordanstigs kommun,61.8981992,17.3330136
 Stockamöllan,Eslövs kommun,55.94569,13.3737998
+Stocka,Nordanstigs kommun,61.8981992,17.3330136
 Stockaryd,Sävsjö kommun,57.3195952,14.5911191
 Stockholm,Stockholms kommun,59.3251172,18.0710935
 Stockvik,Sundsvalls kommun,62.3478034,17.3648359
@@ -1437,15 +1438,15 @@ Stöde,Sundsvalls kommun,62.4177768,16.5782727
 Stöllet,Torsby kommun,60.4100453,13.26975
 Stöpen,Skövde kommun,58.4785273,13.8667206
 Sulvik,Arvika kommun,59.6782709,12.4152191
-Sund,Trosa kommun,57.7774777,14.596108
 Sundborn,Falu kommun,60.6541762,15.7813205
 Sundby,Ekerö kommun,59.2884766,17.7192745
 Sundbyholm,Eskilstuna kommun,59.4382728,16.6198714
 Sundom,Luleå kommun,65.7721306,22.2643019
 Sundsvall,Sundsvalls kommun,62.3907552,17.3071024
+Sund,Trosa kommun,57.7774777,14.596108
 Sunnansjö,Ludvika kommun,60.2214593,14.960771
-Sunne,Sunne kommun,59.8907658,13.0454215346412
 Sunnemo,Hagfors kommun,59.8842838,13.7222647
+Sunne,Sunne kommun,59.8907658,13.0454215346412
 Surahammar,Surahammars kommun,59.707058,16.2219947
 Surte,Ale kommun,57.8267626,12.0161635
 Svalsta,Nyköpings kommun,58.7430964,16.8751319
@@ -1455,8 +1456,8 @@ Svanesund,Orust kommun,58.1430369,11.8190628
 Svanskog/Svaneholm,Säffle kommun,59.1797936,12.5509624
 Svappavaara,Kiruna kommun,67.6469235,21.0554854
 Svartbyn,Överkalix kommun,66.2596305,22.8203593
-Svarte,Ystads kommun,55.4309311,13.7151312
 Svartehallen,Stenungsunds kommun,58.118234,11.9579904
+Svarte,Ystads kommun,55.4309311,13.7151312
 Svartudden,Piteå kommun,58.7329523,11.1723232
 Svartå,Degerfors kommun,65.029789,20.7680654
 Svedala,Svedala kommun,55.5152421,13.2384358
@@ -1503,8 +1504,8 @@ Södra Sandby,Lunds kommun,56.5671713,16.6199859
 Södra Sunderbyn,Luleå kommun,65.6541627,21.9534144
 Södra Vi,Vimmerby kommun,57.7414559,15.7960531
 Sölvesborg,Sölvesborgs kommun,56.0506535,14.5871906
-Sörfors,Umeå kommun,63.8729785,20.036461
 Sörforsa,Hudiksvalls kommun,61.7178872,16.9696608
+Sörfors,Umeå kommun,63.8729785,20.036461
 Sörmjöle,Umeå kommun,63.6799465,20.002339
 Sörstafors,Hallstahammars kommun,59.5830617,16.2107611
 Sörvik,Ludvika kommun,60.1869127,15.147367
@@ -1598,8 +1599,8 @@ Tynningö,Vaxholms kommun,59.3775744,18.3927013548699
 Tyringe,Hässleholms kommun,56.1602044,13.6042633
 Tystberga,Nyköpings kommun,58.8493482,17.234324
 Tågarp,Svalövs kommun,56.3043054,13.8222348
-Tånga och Rögle,Helsingborgs kommun,56.1937296,12.7734077
 Tångaberg,Varbergs kommun,57.1746224,12.2258909
+Tånga och Rögle,Helsingborgs kommun,56.1937296,12.7734077
 Tånnö,Värnamo kommun,57.0942463,14.0474223
 Täfteå,Umeå kommun,63.839675,20.4759469
 Täljö,Österåkers kommun,59.4717904,18.2391946
@@ -1609,8 +1610,8 @@ Tärnsjö,Heby kommun,60.1545625,16.9275101
 Tävelsås,Växjö kommun,56.7698924,14.8238697
 Töcksfors,Årjängs kommun,59.5093152,11.8425198
 Töllsjö,Bollebygds kommun,57.7973099,12.6347606
-Töre,Kalix kommun,65.9131293,22.6478278
 Töreboda,Töreboda kommun,58.7081061,14.1239738
+Töre,Kalix kommun,65.9131293,22.6478278
 Törestorp,Gnosjö kommun,58.3099486,13.0732777
 Tösse,Åmåls kommun,58.9719043,12.6448606
 Ubbhult norra,Marks kommun,57.5809852,12.3547195
@@ -1669,7 +1670,6 @@ Vargön,Vänersborgs kommun,58.3581039,12.4003624
 Varnhem,Skara kommun,58.3853435,13.6505707
 Vartofta,Falköpings kommun,58.0960676,13.6327759
 Vassmolösa,Kalmars kommun,56.5985328,16.1649125
-Edeby,Knivsta kommun,59.8119017,17.7758236
 Vattholma,Uppsala kommun,60.0190508,17.7327925
 Vattjom,Sundsvalls kommun,62.3650638,17.0338053
 Vattnäs,Mora kommun,61.0477845,14.5946165
@@ -1688,19 +1688,18 @@ Vena,Hultsfreds kommun,57.8594633,11.8747128
 Venjan,Mora kommun,60.9527537,13.9109217
 Vessigebro,Falkenbergs kommun,56.9786275,12.6586652
 Vetlanda,Vetlanda kommun,57.4260178,15.0870226
-Vi,Sundsvalls kommun,62.4283334,17.418437
 Vibble,Gotlands kommun,57.6038368,18.2496614
 Vickleby,Mörbylånga kommun,56.5819317,16.4588968
 Vidja,Huddinge kommun,59.1971651,18.0596931
 Vidsel,Älvsbyns kommun,65.8336059,20.5200884
 Vidöåsen,Hammarö kommun,59.3419771,13.4533363
 Viforsen och Tunbyn,Sundsvalls kommun,62.3061012,17.2541397
-Vik,Simrishamns kommun,59.7363839,17.4625432
 Vika,Falu kommun,60.5127487,15.7107596
 Vikarbyn,Rättviks kommun,60.9106397,15.0237761
 Viken,Höganäs kommun,57.8064285,13.8837461
 Vikingstad,Linköpings kommun,58.3832417,15.4332452
 Vikmanshyttan,Hedemora kommun,60.2990095,15.8310513
+Vik,Simrishamns kommun,59.7363839,17.4625432
 Viksjöfors,Ovanåkers kommun,61.3375225,15.9529485
 Vilhelmina,Vilhelmina kommun,64.6257185,16.6541624
 Villshärad,Halmstads kommun,56.6943603,12.696605
@@ -1724,6 +1723,7 @@ Viskafors,Borås kommun,57.6307502,12.8492076
 Vislanda,Alvesta kommun,56.7872261,14.4515835
 Vissefjärda,Emmaboda kommun,56.5355233,15.5861469
 Vistträsk,Älvsbyns kommun,65.6928463,20.6486375
+Vi,Sundsvalls kommun,62.4283334,17.418437
 Vitaby,Simrishamns kommun,55.6849776,14.1535475
 Vittangi,Kiruna kommun,67.6782861,21.6501879
 Vittaryd,Ljungby kommun,56.9707555,13.9467913
@@ -1751,8 +1751,8 @@ Väländan,Haninge kommun,59.112957,17.987988
 Vänersborg,Vänersborgs kommun,58.4433649,12.3609810401376
 Väne-Åsaka,Trollhättans kommun,58.2470858,12.4202407
 Vänge,Uppsala kommun,59.8586465,17.430238
-Vännäs,Vännäs kommun,63.94087205,19.7025716173518
 Vännäsby,Vännäs kommun,63.9148885,19.8248667
+Vännäs,Vännäs kommun,63.94087205,19.7025716173518
 Väring,Skövde kommun,58.5112433,13.9608356
 Värmlandsbro,Säffle kommun,59.1815134,13.0147903
 Värnamo,Värnamo kommun,57.1852137,14.0412173
@@ -1789,20 +1789,20 @@ Ytterhogdal,Härjedalens kommun,62.1772097,14.9394367
 Ytternäs och Vreta,Uppsala kommun,59.7755358,17.6013774
 Yttersjö,Umeå kommun,63.7869284,19.9844773
 Zinkgruvan,Askersunds kommun,58.8154355,15.1066261
-Åby,Norrköpings kommun,58.6621485,16.1759257
-Åby,Växjö kommun,58.6621485,16.1759257
 Åbyggeby,Gävle kommun,60.7286511,17.1268381
+Åby,Norrköpings kommun,58.6621485,16.1759257
 Åbytorp,Kumla kommun,60.043209,17.9834014
+Åby,Växjö kommun,58.6621485,16.1759257
 Åhus,Kristianstads kommun,55.9235165,14.2955222
 Åkarp,Burlövs kommun,55.8768933,13.1362201
-Åkers styckebruk,Strängnäs kommun,59.2564417,17.1080216
 Åkersberga,Österåkers kommun,59.4823516,18.2943981
+Åkers styckebruk,Strängnäs kommun,59.2564417,17.1080216
 Ålberga,Nyköpings kommun,58.7250425,16.5809527
 Åled,Halmstads kommun,56.7423814,12.9475577
 Åminne,Värnamo kommun,57.6124977,18.761462
 Åmmeberg,Askersunds kommun,58.8656103,14.9991924
-Åmot,Ockelbo kommun,59.7052022,12.8872074
 Åmotfors,Eda kommun,59.7625867,12.362227
+Åmot,Ockelbo kommun,59.7052022,12.8872074
 Åmunnen,Kalmars kommun,56.6276967,16.2368059
 Åmynnet,Örnsköldsviks kommun,63.1861108,18.5306961
 Åmål,Åmåls kommun,58.96985825,12.6180043134136
@@ -1811,12 +1811,11 @@ Zinkgruvan,Askersunds kommun,58.8154355,15.1066261
 Åre,Åre kommun,63.4010888,13.0822241
 Årjäng,Årjängs kommun,59.44244595,12.1091846802427
 Årnäs,Varbergs kommun,58.6679145,13.5846108
-Årsta Havsbad,Haninge kommun,59.0862267,18.1659571
 Årstad,Falkenbergs kommun,59.5835662,12.1301937
+Årsta Havsbad,Haninge kommun,59.0862267,18.1659571
 Årsunda,Sandvikens kommun,60.5150767,16.7334186
 Åryd,Karlshamns kommun,57.9547987,13.6506503
 Åryd,Växjö kommun,57.9547987,13.6506503
-Ås,Krokoms kommun,57.0495731,12.306622
 Åsa,Kungsbacka kommun,58.0047454,14.6044024
 Åsarna,Bergs kommun,62.645937,14.3705603
 Åsarp,Falköpings kommun,58.0238488,13.568091
@@ -1826,6 +1825,7 @@ Zinkgruvan,Askersunds kommun,58.8154355,15.1066261
 Åsele,Åsele kommun,64.20007895,17.6141342862373
 Åsensbruk,Melleruds kommun,58.8072431,12.4194782
 Åshammar,Sandvikens kommun,60.6422782,16.5540253
+Ås,Krokoms kommun,57.0495731,12.306622
 Åsljunga,Örkelljunga kommun,56.3093884,13.3744883
 Åstorp,Åstorps kommun,56.1351211,12.9462464
 Åtvidaberg,Åtvidabergs kommun,58.2173363,16.140217486292
@@ -1843,10 +1843,10 @@ Zinkgruvan,Askersunds kommun,58.8154355,15.1066261
 Älvsbyn,Älvsbyns kommun,65.7372667,20.6818974185551
 Älvsered,Falkenbergs kommun,57.2414551,12.8664725
 Älvängen,Ale kommun,57.9576648,12.1188331
-Äng,Nässjö kommun,57.6955717,14.5666709
 Änge,Krokoms kommun,63.458115,14.0649326
-Ängelholm,Ängelholms kommun,56.2429224,12.8619375
 Ängelholms strand,Ängelholms kommun,56.2322471,12.9979216
+Ängelholm,Ängelholms kommun,56.2429224,12.8619375
+Äng,Nässjö kommun,57.6955717,14.5666709
 Ängsmon,Östersunds kommun,63.1436052,14.7527842
 Ängsvik,Värmdö kommun,59.2405781,18.5303253
 Äppelbo,Vansbro kommun,60.4858844,14.0138529
@@ -1860,8 +1860,8 @@ Zinkgruvan,Askersunds kommun,58.8154355,15.1066261
 Öckerö,Öckerö kommun,57.7279006,11.4236832859863
 Ödeborg,Färgelanda kommun,58.5451294,11.9717678
 Ödeshög,Ödeshögs kommun,58.2245933,14.6622073848433
-Ödsmål,Stenungsunds kommun,58.110845,11.8560598
 Ödsmål och Åsebyberg,Kungälvs kommun,57.9151441,11.8000245
+Ödsmål,Stenungsunds kommun,58.110845,11.8560598
 Ödåkra,Helsingborgs kommun,56.1033504,12.7499273
 Öggestorp,Jönköpings kommun,57.723374,14.3835715
 Öjersjö,Partille kommun,57.7038269,12.1430919

@@ -1,4 +1,4 @@
-## Svenska Städer
+## Svenska Städer 🇸🇪
 A `.csv` list of Swedish cities along with the municipality in which they reside in. Latitude and longitude in [WGS84](https://en.wikipedia.org/wiki/World_Geodetic_System#A_new_World_Geodetic_System:_WGS_84) format also included.
 
 ### Example
@@ -13,6 +13,14 @@ A `.csv` list of Swedish cities along with the municipality in which they reside
 ### Contributing
 If you feel something is missing or something is incorrect, either fork and create 
 a [pull request](https://github.com/sphrak/svenska-stader/pulls) or submit an [issue](https://github.com/sphrak/svenska-stader/issues). 
+
+All modifications to `svenska-stader.csv` must be sorted with swedish locale `sv_SE.UTF-8`.
+On any linux distro with `coreutils` and `sv_SE.UTF-8` locale available on the system
+you can run the sort script which does it automatically for you.
+
+```sh
+./sort.sh
+```
 
 ## License
 
