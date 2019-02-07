@@ -1,6 +1,7 @@
-# Swedish cities
+## Svenska Städer
 A `.csv` list of Swedish cities along with the municipality in which they reside in. Latitude and longitude in [WGS84](https://en.wikipedia.org/wiki/World_Geodetic_System#A_new_World_Geodetic_System:_WGS_84) format also included.
 
+### Example
 | Locality | Municipality | Latitude | Longitude |
 |:------------- |:------------- |:----- |:----- |
 | Göteborg | Göteborgs kommun | 57.7072326 | 11.9670171 |
@@ -8,6 +9,10 @@ A `.csv` list of Swedish cities along with the municipality in which they reside
 | Malmö | Malmö kommun | 55.6052931 | 13.0001566 |
 | Norrköping | Norrköpings kommun | 58.5909124 | 16.1903511 |
 | Stockholm | Stockholms kommun | 59.3251172 | 18.0710935 |
+
+### Contributing
+If you feel something is missing or something is incorrect, either fork and create 
+a [pull request](https://github.com/sphrak/svenska-stader/pulls) or submit an [issue](https://github.com/sphrak/svenska-stader/issues). 
 
 ## License
 
