@@ -8,7 +8,7 @@ A `.csv` list of Swedish cities along with the municipality and county in which 
 | Helsingborg | Helsingborg | Skåne | 56.0441984 | 12.7040684 |
 | Malmö | Malmö | Skåne| 55.6052931 | 13.0001566 |
 | Norrköping | Norrköping | Östergötland | 58.5909124 | 16.1903511 |
-| Stockholm | Stockholms| Stockholm | 59.3251172 | 18.0710935 |
+| Stockholm | Stockholm | Stockholm | 59.3251172 | 18.0710935 |
 
 ### Contributing
 If you feel something is missing or something is incorrect, either fork and create 
