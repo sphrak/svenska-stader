@@ -3,7 +3,7 @@ A `.csv` list of Swedish cities along with the municipality and county in which 
 
 ### Example
 | Locality/Ort | Municipality/Kommun | County/Län | Latitude/Latitud | Longitude/Longitud |
-|:------------- |:------------- |:----- |:----- |
+|:------------- |:------------- |:----- |:----- |:----- |
 | Angered | Göteborg| Västra Götaland | 57.7072326 | 11.9670171 |
 | Helsingborg | Helsingborg | Skåne | 56.0441984 | 12.7040684 |
 | Malmö | Malmö | Skåne| 55.6052931 | 13.0001566 |
