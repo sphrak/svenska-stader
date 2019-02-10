@@ -4,11 +4,11 @@ A `.csv` list of Swedish cities along with the municipality and county in which 
 ### Example
 | Locality/Ort | Municipality/Kommun | County/Län | Latitude/Latitud | Longitude/Longitud |
 |:------------- |:------------- |:----- |:----- |:----- |
-| Angered | Göteborg| Västra Götaland | 57.7072326 | 11.9670171 |
-| Helsingborg | Helsingborg | Skåne | 56.0441984 | 12.7040684 |
-| Malmö | Malmö | Skåne| 55.6052931 | 13.0001566 |
-| Norrköping | Norrköping | Östergötland | 58.5909124 | 16.1903511 |
-| Stockholm | Stockholm | Stockholm | 59.3251172 | 18.0710935 |
+| Angered | Göteborg| Västra Götaland | 57.707232 | 11.967017 |
+| Helsingborg | Helsingborg | Skåne | 56.044198 | 12.704068 |
+| Malmö | Malmö | Skåne| 55.605293 | 13.000156 |
+| Norrköping | Norrköping | Östergötland | 58.590912 | 16.190351 |
+| Stockholm | Stockholm | Stockholm | 59.325117 | 18.071093 |
 
 ### Contributing
 If you feel something is missing or something is incorrect, either fork and create 
