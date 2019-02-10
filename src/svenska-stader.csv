@@ -1,6 +1,6 @@
 Locality,Municipality,County,Latitude,Longitude
 Abbekås,Skurup,Skåne,55.399274,13.600275
-Abborrberget,Strängnä,Värmland,59.712128,14.202896
+Abborrberget,Strängnäs,Värmland,59.712128,14.202896
 Alberga,Eskilstuna,Örebro,59.456204,14.880120
 Alby,Ånge,Gotland,57.819483,18.956528
 Alfta,Ovanåker,Gävleborg,61.345719,16.000104
@@ -65,13 +65,13 @@ Bammarboda,Österåker,Stockholm,59.506469,18.468463
 Bankekind,Linköping,Östergötland,58.361450,15.853222
 Bankeryd,Jönköping,Jönköping,57.863142,14.127853
 Bara,Svedala,Gotland,57.588491,18.610915
-Barkarö,Västerå,Västmanland,59.555793,16.504193
+Barkarö,Västerås,Västmanland,59.555793,16.504193
 Barsebäck,Kävlinge,Skåne,55.771661,12.956365
 Barsebäckshamn,Kävlinge,Skåne,55.755836,12.905884
 Baskemölla,Simrishamn,Skåne,55.591541,14.315296
 Bastuträsk,Norsjö,Västerbotten,64.021139,19.347257
 Beddingestrand,Trelleborg,Skåne,55.360633,13.425184
-Bengtsfors,Bengtsfor,Västra Götaland,59.011644,12.245549
+Bengtsfors,Bengtsfors,Västra Götaland,59.011644,12.245549
 Bengtsheden,Falu,Dalarna,60.700717,15.870233
 Bensbyn,Luleå,Norrbotten,65.639826,22.239665
 Bergagård,Falkenberg,Halland,56.981516,12.577500
@@ -89,7 +89,7 @@ Bergshamra,Norrtälje,Stockholm,59.639531,18.656496
 Bergsjö,Nordanstig,Gävleborg,61.983775,17.058369
 Bergströmshusen,Staffanstorp,Skåne,55.676680,13.173360
 Bergsviken,Piteå,Norrbotten,65.307803,21.390501
-Bergsäng,Hagfor,Värmland,60.111842,13.567442
+Bergsäng,Hagfors,Värmland,60.111842,13.567442
 Bergvik,Söderhamn,Gävleborg,61.255352,16.832544
 Berg,Åtvidaberg,Jämtland,62.689571,14.356633
 Bestorp,Linköping,Östergötland,58.233475,15.733218
@@ -99,7 +99,7 @@ Bie,Katrineholm,Södermanland,59.087860,16.211660
 Billdal,Kungsbacka,Västra Götaland,57.576997,11.942625
 Billeberga,Svalöv,Skåne,55.882914,12.999087
 Billinge,Eslöv,Skåne,55.962529,13.331781
-Billingsfors,Bengtsfor,Västra Götaland,58.983173,12.246167
+Billingsfors,Bengtsfors,Västra Götaland,58.983173,12.246167
 Billsta,Örnsköldsvik,Västernorrland,63.322877,18.514495
 Birka,Krokom,Stockholm,59.332728,17.544941
 Bjurholm,Bjurholm,Västerbotten,63.964237,18.979487
@@ -131,7 +131,7 @@ Blentarp,Sjöbo,Skåne,55.584158,13.599080
 Blidsberg,Ulricehamn,Västra Götaland,57.930513,13.493323
 Blidö,Norrtälje,Stockholm,59.614538,18.901464
 Blombacka,Karlstad,Värmland,59.606125,13.801258
-Blomstermåla,Mönsterå,Kalmar,56.984570,16.328683
+Blomstermåla,Mönsterås,Kalmar,56.984570,16.328683
 Blåsmark,Piteå,Norrbotten,65.265284,21.292715
 Blötberget,Ludvika,Dalarna,60.126774,15.058789
 Bockara,Oskarshamn,Kalmar,57.261836,16.065139
@@ -154,7 +154,7 @@ Borås,Borås,Västra Götaland,57.721083,12.940740
 Bosnäs,Borås,Västra Götaland,57.668333,12.844263
 Botsmark,Umeå,Västerbotten,64.253403,20.246195
 Bottnaryd,Jönköping,Jönköping,57.769513,13.826133
-Bovallstrand,Sotenä,Västra Götaland,58.474747,11.318806
+Bovallstrand,Sotenäs,Västra Götaland,58.474747,11.318806
 Boxholm,Boxholm,Östergötland,58.132595,15.127738
 Brantevik,Simrishamn,Skåne,55.515199,14.345963
 Brastad,Lysekil,Västra Götaland,58.382006,11.485181
@@ -201,7 +201,7 @@ Båstad,Båstad,Skåne,56.426789,12.860715
 Båtskärsnäs,Kalix,Norrbotten,65.780928,23.422138
 Bäckaskog,Kristianstad,Skåne,56.044299,14.334260
 Bäckebo,Nybro,Kalmar,56.889220,16.065362
-Bäckefors,Bengtsfor,Västra Götaland,58.806127,12.159969
+Bäckefors,Bengtsfors,Västra Götaland,58.806127,12.159969
 Bäckhammar,Kristinehamn,Värmland,59.158939,14.190986
 Bälgviken,Eskilstuna,Södermanland,59.249827,16.460741
 Bälinge,Luleå,Uppsala,59.948845,17.542984
@@ -215,7 +215,7 @@ Dala-Floda,Gagnef,Dalarna,60.507692,14.79673
 Dalarö,Haninge,Stockholm,59.133518,18.405239
 Dalby,Lund,Skåne,55.664663,13.346158
 Dalsjöfors,Borås,Västra Götaland,57.721698,13.106962
-Dals Långed,Bengtsfor,Västra Götaland,58.925905,12.306382
+Dals Långed,Bengtsfors,Västra Götaland,58.925905,12.306382
 Dals Rostock,Mellerud,Västra Götaland,58.714085,12.355654
 Dalstorp,Tranemo,Västra Götaland,57.605573,13.511657
 Dalum,Ulricehamn,Västra Götaland,57.900296,13.464924
@@ -229,7 +229,7 @@ Degerhamn,Mörbylånga,Kalmar,56.355521,16.411009
 Deje,Forshaga,Värmland,59.605939,13.463648
 Delsbo,Hudiksvall,Gävleborg,61.800127,16.555886
 Dingle,Munkedal,Västra Götaland,58.527657,11.578637
-Dingtuna,Västerå,Västmanland,59.572402,16.388665
+Dingtuna,Västerås,Västmanland,59.572402,16.388665
 Diseröd,Kungälv,Västra Götaland,57.924606,12.028827
 Diö,Älmhult,Kronoberg,56.639381,14.221131
 Djupekås,Sölvesborg,Blekinge,56.070682,14.721403
@@ -269,7 +269,7 @@ Ekenässjön,Vetlanda,Jönköping,57.491838,15.020954
 Ekerö,Ekerö,Stockholm,59.355591,17.622421
 Ekerö sommarstad,Ekerö,Stockholm,59.276032,17.734500
 Eket,Örkelljunga,Västra Götaland,58.057464,13.803066
-Ekshärad,Hagfor,Värmland,60.174282,13.493761
+Ekshärad,Hagfors,Värmland,60.174282,13.493761
 Eksjö,Eksjö,Jönköping,57.667443,14.973559
 Ekskogen,Vallentuna,Stockholm,59.641435,18.231124
 Eksund,Norrköping,Östergötland,58.585982,16.091887
@@ -282,7 +282,7 @@ Emsfors,Oskarshamn,Skåne,56.210123,14.096059
 Emtunga,Vara,Västra Götaland,58.255237,12.999074
 Enbacka,Säter,Dalarna,60.411803,15.612191
 Eneryda,Älmhult,Kronoberg,56.703808,14.338377
-Enhagen-Ekbacken,Västerå,Västmanland,59.565620,16.531830
+Enhagen-Ekbacken,Västerås,Västmanland,59.565620,16.531830
 Enköping,Enköping,Uppsala,59.635611,17.077856
 Enstaberga,Nyköping,Södermanland,58.751468,16.854532
 Enviken,Falu,Stockholm,59.623668,18.629259
@@ -331,7 +331,7 @@ Fjärås station,Kungsbacka,Halland,57.438054,12.155869
 Flen,Flen,Södermanland,59.056782,16.5893
 Fleninge,Helsingborg,Skåne,56.108335,12.791536
 Flerohopp,Nybro,Kalmar,56.822755,15.876840
-Fliseryd,Mönsterå,Kalmar,57.124107,16.263129
+Fliseryd,Mönsterås,Kalmar,57.124107,16.263129
 Floby,Falköping,Västra Götaland,58.138443,13.336221
 Flurkmark,Umeå,Västerbotten,63.982403,20.236600
 Flygsfors,Nybro,Kalmar,56.839391,15.779186
@@ -480,7 +480,7 @@ Habo,Habo,Jönköping,57.975174,14.065819
 Hackås,Berg,Jämtland,62.923938,14.518695
 Haga,Enköping,Västra Götaland,57.698352,11.955813
 Hagby,Kalmar,Uppsala,59.800636,17.376211
-Hagfors,Hagfor,Värmland,60.087994,13.646585
+Hagfors,Hagfors,Värmland,60.087994,13.646585
 Hagge,Smedjebacken,Dalarna,60.124551,15.281262
 Hagryd-Dala,Kungsbacka,Halland,57.530203,11.976054
 Hakkas,Gällivare,Norrbotten,66.916458,21.566148
@@ -508,7 +508,7 @@ Harads,Boden,Norrbotten,66.088515,20.944173
 Hara,Östersund,Jämtland,63.039251,14.462705
 Harbo,Heby,Uppsala,60.108367,17.209961
 Hargshamn,Östhammar,Uppsala,60.167768,18.484925
-Harkie,Västerå,Västmanland,59.531890,16.714112
+Harkie,Västerås,Västmanland,59.531890,16.714112
 Harlösa,Eslöv,Skåne,55.717611,13.525610
 Harmånger,Nordanstig,Gävleborg,61.927630,17.217365
 Harplinge,Halmstad,Halland,56.744347,12.724915
@@ -594,7 +594,7 @@ Hult,Eksjö,Östergötland,58.536157,15.690562
 Hultsfred,Hultsfred,Kalmar,57.394793,15.775161
 Hulu,Ulricehamn,Jönköping,57.161190,14.924104
 Hummelsta,Enköping,Uppsala,59.625723,16.948556
-Hunnebostrand,Sotenä,Västra Götaland,58.441239,11.301082
+Hunnebostrand,Sotenäs,Västra Götaland,58.441239,11.301082
 Hunnestad,Varberg,Halland,57.100656,12.355766
 Hurva,Eslöv,Skåne,55.796007,13.438365
 Husum,Örnsköldsvik,Västernorrland,63.333385,19.161944
@@ -623,7 +623,7 @@ Hällingsjö,Härryda,Västra Götaland,57.618286,12.435963
 Hällnäs,Vindeln,Västerbotten,64.307651,19.623205
 Hälsö,Öckerö,Västra Götaland,57.734884,11.652415
 Häradsbygden,Leksand,Dalarna,60.702229,15.047116
-Härad,Strängnä,Södermanland,59.361288,16.901567
+Härad,Strängnäs,Södermanland,59.361288,16.901567
 Härnösand,Härnösand,Västernorrland,62.632308,17.937991
 Härryda,Härryda,Västra Götaland,57.669189,12.295911
 Härslöv,Landskrona,Skåne,55.932406,12.876023
@@ -639,7 +639,7 @@ Högsby,Högsby,Kalmar,57.113119,15.880439
 Högsjö,Vingåker,Västernorrland,62.789753,17.821400
 Högsäter,Färgelanda,Västra Götaland,58.651104,12.055453
 Hökerum,Ulricehamn,Västra Götaland,57.838663,13.286221
-Hökåsen,Västerå,Västra Götaland,57.752535,12.990957
+Hökåsen,Västerås,Västra Götaland,57.752535,12.990957
 Hököpinge,Vellinge,Skåne,55.493338,13.008787
 Höllviken,Vellinge,Skåne,55.413762,12.963231
 Hölö,Södertälje,Stockholm,59.025492,17.535552
@@ -665,7 +665,7 @@ Ingelsträde,Höganäs,Skåne,56.185135,12.632973
 Innertavle,Umeå,Västerbotten,63.813807,20.419065
 Insjön,Leksand,Dalarna,60.679419,15.092323
 Inskogen,Oxelösund,Södermanland,58.687827,17.044937
-Irsta,Västerå,Västmanland,59.602556,16.693707
+Irsta,Västerås,Västmanland,59.602556,16.693707
 Johannesudd,Vallentuna,Stockholm,59.551617,18.030971
 Johannishus,Ronneby,Blekinge,56.226857,15.420548
 Johansfors,Emmaboda,Halland,56.838673,12.979440
@@ -701,7 +701,7 @@ Jörlanda,Stenungsund,Västra Götaland,57.986393,11.831144
 Jörn,Skellefteå,Västerbotten,65.057646,20.041264
 Jössefors,Arvika,Värmland,59.673429,12.504671
 Kalix,Kalix,Norrbotten,65.771284,23.130228
-Kalkudden,Strängnä,Södermanland,59.265052,17.282932
+Kalkudden,Strängnäs,Södermanland,59.265052,17.282932
 Kallax,Luleå,Norrbotten,65.524573,22.059254
 Kallfors,Södertälje,Västernorrland,63.532883,19.116272
 Kallinge,Ronneby,Blekinge,56.245610,15.287237
@@ -793,7 +793,7 @@ Kullö,Vaxholm,Stockholm,59.413961,18.304833
 Kumla,Kumla,Örebro,59.117423,15.109026
 Kungsberga,Ekerö,Stockholm,59.405967,17.627952
 Kungsgården,Sandviken,Gävleborg,61.365482,16.947860
-Kungshamn,Sotenä,Västra Götaland,58.360817,11.251142
+Kungshamn,Sotenäs,Västra Götaland,58.360817,11.251142
 Kungshult,Eslöv,Skåne,56.102261,12.695800
 Kungsängen,Upplands-Bro,Stockholm,59.478667,17.751169
 Kungsäter,Varberg,Halland,57.305817,12.564880
@@ -806,7 +806,7 @@ Kuttainen,Kiruna,Norrbotten,68.381679,22.826079
 Kvarsebo,Norrköping,Östergötland,58.640770,16.628524
 Kvegerö,Nyköping,Södermanland,58.927495,17.369469
 Kvibille,Halmstad,Halland,56.783227,12.832206
-Kvicksund,Västerå,Västmanland,59.457644,16.314485
+Kvicksund,Västerås,Västmanland,59.457644,16.314485
 Kvidinge,Åstorp,Skåne,56.135365,13.044990
 Kvillsfors,Vetlanda,Jönköping,57.403087,15.497728
 Kvissleby,Sundsvall,Västernorrland,62.299215,17.379976
@@ -815,7 +815,7 @@ Kvärlöv,Landskrona,Skåne,55.839439,12.986569
 Kyrkesund,Tjörn,Västra Götaland,58.015795,11.514944
 Kyrkheddinge,Staffanstorp,Skåne,55.649140,13.268006
 Kyrkhult,Olofström,Skåne,55.832424,13.724734
-Kyrksten,Storfor,Värmland,59.437666,14.392946
+Kyrksten,Storfors,Värmland,59.437666,14.392946
 Kågeröd,Svalöv,Skåne,55.999056,13.088313
 Kåge,Skellefteå,Västerbotten,64.835173,20.984811
 Kåhög,Partille,Västra Götaland,57.750421,12.151588
@@ -828,7 +828,7 @@ Källhagen,Gävle,Gävleborg,60.698760,17.194925
 Källö-Knippla,Öckerö,Västra Götaland,57.753167,11.651050
 Kärda,Värnamo,Jönköping,57.171295,13.921352
 Kärna,Kungälv,Östergötland,58.410221,15.510259
-Kärsta,Västerå,Västmanland,59.679131,16.837808
+Kärsta,Västerås,Västmanland,59.679131,16.837808
 Kättilsmåla,Karlskrona,Blekinge,56.269177,15.736483
 Kättilstorp,Falköping,Kronoberg,56.825167,14.777483
 Kävlinge,Kävlinge,Skåne,55.791294,13.107347
@@ -920,7 +920,7 @@ Lunnarp,Tomelilla,Skåne,55.543894,14.040716
 Lunne,Östersund,Västernorrland,63.784732,17.657620
 Lurudden,Ekerö,Stockholm,59.274685,17.708260
 Lycksele,Lycksele,Västerbotten,64.595861,18.677755
-Lycksta,Västerå,Västmanland,59.695182,16.567965
+Lycksta,Västerås,Västmanland,59.695182,16.567965
 Lyrestad,Mariestad,Västra Götaland,58.803630,14.059127
 Lysekil,Lysekil,Västra Götaland,58.291426,11.329568
 Lysvik,Sunne,Värmland,60.015272,13.132996
@@ -955,11 +955,11 @@ Mala,Hässleholm,Skåne,56.241004,13.711531
 Malmberget västra,Gällivare,Norrbotten,67.176118,20.658935
 Malmberget östra,Gällivare,Norrbotten,67.176118,20.658935
 Malmbäck,Nässjö,Kronoberg,56.840954,14.049387
-Malmen,Västerå,Kalmar,57.014890,16.219951
+Malmen,Västerås,Kalmar,57.014890,16.219951
 Malmköping,Flen,Södermanland,59.133138,16.725512
 Malmslätt,Linköping,Östergötland,58.416735,15.516966
 Malmö,Malmö,Skåne,55.605293,13.000156
-Malmön,Sotenä,Gävleborg,60.589005,16.777880
+Malmön,Sotenäs,Gävleborg,60.589005,16.777880
 Malung,Malung-Sälen,Dalarna,60.686446,13.714586
 Malungsfors,Malung-Sälen,Dalarna,60.734169,13.552234
 Malå,Malå,Västerbotten,65.238752,18.729258
@@ -968,9 +968,9 @@ Marbäck,Ulricehamn,Halland,56.705200,13.029041
 Margretetorp,Ängelholm,Skåne,56.335859,12.892382
 Mariannelund,Eksjö,Jönköping,57.615689,15.580343
 Marieby,Östersund,Jämtland,63.116689,14.723028
-Mariefred,Strängnä,Södermanland,59.259945,17.222948
+Mariefred,Strängnäs,Södermanland,59.259945,17.222948
 Marieholm,Eslöv,Skåne,55.864144,13.151533
-Marielund,Strängnä,Uppsala,59.838943,17.870543
+Marielund,Strängnäs,Uppsala,59.838943,17.870543
 Mariestad,Mariestad,Västra Götaland,58.800977,13.751662
 Markaryd,Markaryd,Kronoberg,56.459613,13.591983
 Marmaskogen,Söderhamn,Gävleborg,61.278953,16.896402
@@ -985,13 +985,13 @@ Mellansel,Örnsköldsvik,Västernorrland,63.424772,18.308823
 Mellbystrand,Laholm,Halland,56.504597,12.948391
 Mellerud,Mellerud,Västra Götaland,58.682429,12.525313
 Mellösa,Flen,Södermanland,59.100733,16.561849
-Merlänna,Strängnä,Södermanland,59.280796,16.980532
+Merlänna,Strängnäs,Södermanland,59.280796,16.980532
 Mjällby,Sölvesborg,Blekinge,56.047083,14.678027
 Mjällom,Kramfors,Västernorrland,62.986690,18.430428
 Mjöbäck,Svenljunga,Västra Götaland,57.314698,12.875615
 Mjöhult,Höganäs,Kronoberg,56.816097,14.360647
 Mjölby,Mjölby,Östergötland,58.295391,15.179064
-Mjönäs,Hagfor,Värmland,59.879452,13.55936
+Mjönäs,Hagfors,Värmland,59.879452,13.55936
 Mockfjärd,Gagnef,Dalarna,60.502899,14.959955
 Mogata,Söderköping,Östergötland,58.451127,16.451785
 Moheda,Alvesta,Kronoberg,57.004355,14.572811
@@ -1006,7 +1006,7 @@ Morup,Falkenberg,Halland,56.979293,12.395902
 Motala,Motala,Östergötland,58.542039,15.041261
 Mullhyttan,Lekeberg,Örebro,59.151568,14.683658
 Mullsjö,Mullsjö,Jönköping,57.942325,13.816638
-Munga,Västerå,Västmanland,59.744661,16.521960
+Munga,Västerås,Västmanland,59.744661,16.521960
 Munka-Ljungby,Ängelholm,Skåne,56.256101,12.973975
 Munkedal,Munkedal,Västra Götaland,58.607817,11.672323
 Munkfors,Munkfors,Värmland,59.809955,13.488232
@@ -1026,7 +1026,7 @@ Mölle,Höganäs,Skåne,56.282746,12.498322
 Mölltorp,Karlsborg,Västra Götaland,58.494309,14.41381
 Mölnbo,Södertälje,Stockholm,59.048603,17.41531
 Mölnlycke,Härryda,Västra Götaland,57.658361,12.113576
-Mönsterås,Mönsterå,Kalmar,57.042955,16.444801
+Mönsterås,Mönsterås,Kalmar,57.042955,16.444801
 Mörarp,Helsingborg,Skåne,56.056735,12.877454
 Mörbylånga,Mörbylånga,Kalmar,56.524963,16.379998
 Mörlunda,Hultsfred,Kalmar,57.323302,15.865313
@@ -1102,7 +1102,7 @@ Obbola,Umeå,Västerbotten,63.702584,20.313093
 Ockelbo,Ockelbo,Gävleborg,60.919700,16.542670
 Odensbacken,Örebro,Örebro,59.162539,15.525526
 Odensberg,Falköping,Västra Götaland,58.154929,13.435662
-Oknö,Mönsterå,Kalmar,56.998086,16.503481
+Oknö,Mönsterås,Kalmar,56.998086,16.503481
 Oleby,Torsby,Värmland,60.135705,13.036516
 Olofstorp,Göteborg,Västra Götaland,57.798552,12.168591
 Olofström,Olofström,Blekinge,56.278997,14.533325
@@ -1209,7 +1209,7 @@ Ryd,Tingsryd,Västra Götaland,58.220865,13.372489
 Rydöbruk,Hylte,Halland,56.960859,13.143345
 Ryssby,Ljungby,Kronoberg,56.864492,14.167912
 Råby,Håbo,Uppsala,59.897716,17.675591
-Råda,Hagfor,Värmland,60.005367,13.597393
+Råda,Hagfors,Värmland,60.005367,13.597393
 Råneå,Luleå,Norrbotten,65.856088,22.289997
 Rångedala,Borås,Västra Götaland,57.793019,13.125345
 Rånnaväg,Ulricehamn,Västra Götaland,57.676743,13.465877
@@ -1312,7 +1312,7 @@ Skottorp,Laholm,Halland,56.450007,12.961617
 Skrea,Falkenberg,Halland,56.883355,12.558435
 Skruv,Lessebo,Kronoberg,57.158718,15.164831
 Skultorp,Skövde,Västra Götaland,58.341621,13.827990
-Skultuna,Västerå,Västmanland,59.721776,16.428147
+Skultuna,Västerås,Västmanland,59.721776,16.428147
 Skumparp,Malmö,Skåne,55.538813,12.966722
 Skurup,Skurup,Skåne,55.483927,13.501464
 Skutskär,Älvkarleby,Uppsala,60.635222,17.409286
@@ -1320,7 +1320,7 @@ Skyttorp,Uppsala,Uppsala,60.080892,17.735795
 Skålö,Vansbro,Dalarna,60.563861,14.301572
 Skånes-Fagerhult,Örkelljunga,Skåne,56.370506,13.465170
 Skåne-Tranås,Tomelilla,Skåne,55.614047,13.993737
-Skåpafors,Bengtsfor,Västra Götaland,59.022839,12.289002
+Skåpafors,Bengtsfors,Västra Götaland,59.022839,12.289002
 Skåre,Karlstad,Skåne,55.377133,13.050329
 Skällinge,Varberg,Halland,57.182168,12.468343
 Skänninge,Mjölby,Östergötland,58.395580,15.086770
@@ -1346,7 +1346,7 @@ Smedseröd,Uddevalla,Västra Götaland,58.365430,11.807151
 Smedstorp,Tomelilla,Skåne,55.550375,14.116682
 Smygehamn,Trelleborg,Skåne,55.346446,13.374123
 Smålandsstenar,Gislaved,Jönköping,57.162696,13.411558
-Smögen,Sotenä,Västra Götaland,58.353644,11.226118
+Smögen,Sotenäs,Västra Götaland,58.353644,11.226118
 Snogeröd,Höör,Skåne,55.838666,13.494158
 Snöveltorp,Söderköping,Östergötland,58.500942,16.161604
 Solberga,Kungälv,Östergötland,58.351415,15.507304
@@ -1369,7 +1369,7 @@ Spjutstorp,Tomelilla,Skåne,55.579951,14.014554
 Spångsholm,Mjölby,Östergötland,58.352508,15.236179
 Spånlöt,Österåker,Stockholm,59.572133,18.289962
 Staffanstorp,Staffanstorp,Skåne,55.642739,13.211399
-Stallarholmen,Strängnä,Södermanland,59.361279,17.207143
+Stallarholmen,Strängnäs,Södermanland,59.361279,17.207143
 Stare,Strömstad,Västra Götaland,58.917855,11.207555
 Stava,Österåker,Östergötland,58.130147,14.567888
 Stavreviken,Timrå,Västernorrland,62.553498,17.409703
@@ -1408,7 +1408,7 @@ Stora Mellösa,Örebro,Örebro,59.210613,15.497550
 Stora Rör,Borgholm,Kalmar,56.756756,16.527238
 Stora Vika,Nynäshamn,Stockholm,58.955646,17.785737
 Storebro,Vimmerby,Blekinge,56.150783,15.3818
-Storfors,Storfor,Värmland,59.463157,14.277864
+Storfors,Storfors,Värmland,59.463157,14.277864
 Storuman,Storuman,Västerbotten,65.443959,15.832388
 Storvik,Sandviken,Gävleborg,60.582853,16.525365
 Storvreta,Uppsala,Uppsala,59.956938,17.704209
@@ -1417,7 +1417,7 @@ Striberg,Nora,Örebro,59.545432,14.941675
 Strålsnäs,Boxholm,Östergötland,58.237724,15.091668
 Strångsjö,Katrineholm,Södermanland,58.905360,16.199816
 Stråssa,Lindesberg,Örebro,59.739452,15.201540
-Strängnäs,Strängnä,Södermanland,59.349601,17.081336
+Strängnäs,Strängnäs,Södermanland,59.349601,17.081336
 Strömma,Värmdö,Västra Götaland,57.564189,12.457947
 Strömsbruk,Nordanstig,Gävleborg,61.8699,17.317171
 Strömsholm,Hallstahammar,Västmanland,59.523741,16.248736
@@ -1445,7 +1445,7 @@ Sundom,Luleå,Norrbotten,65.772130,22.264301
 Sundsvall,Sundsvall,Västernorrland,62.390755,17.307102
 Sund,Trosa,Jönköping,57.777477,14.596108
 Sunnansjö,Ludvika,Dalarna,60.221459,14.960771
-Sunnemo,Hagfor,Värmland,59.884283,13.722264
+Sunnemo,Hagfors,Värmland,59.884283,13.722264
 Sunne,Sunne,Värmland,59.890765,13.045421
 Surahammar,Surahammar,Västmanland,59.707058,16.221994
 Surte,Ale,Västra Götaland,57.826762,12.016163
@@ -1525,11 +1525,11 @@ Tenhult,Jönköping,Jönköping,57.706654,14.321033
 Tibro,Tibro,Västra Götaland,58.424890,14.163119
 Tidaholm,Tidaholm,Västra Götaland,58.140693,13.924145
 Tidan,Skövde,Västra Götaland,58.576338,14.012095
-Tidö-Lindö,Västerå,Västmanland,59.512822,16.531577
+Tidö-Lindö,Västerås,Västmanland,59.512822,16.531577
 Tierp,Tierp,Uppsala,60.342961,17.516839
-Tillberga,Västerå,Västmanland,59.686704,16.618347
+Tillberga,Västerås,Västmanland,59.686704,16.618347
 Timmele,Ulricehamn,Västra Götaland,57.861904,13.428551
-Timmernabben,Mönsterå,Kalmar,56.970307,16.43421
+Timmernabben,Mönsterås,Kalmar,56.970307,16.43421
 Timmersdala,Skövde,Västra Götaland,58.527673,13.759432
 Timrå,Timrå,Västernorrland,62.489319,17.327373
 Tingsryd,Tingsryd,Kronoberg,56.527906,14.977188
@@ -1561,7 +1561,7 @@ Torshälla,Eskilstuna,Södermanland,59.419243,16.474944
 Torsåker,Hofors,Västernorrland,63.076659,17.715374
 Torsång,Borlänge,Dalarna,60.463520,15.569629
 Torsås,Torså,Kalmar,56.412408,16.003073
-Tortuna,Västerå,Västmanland,59.674702,16.722464
+Tortuna,Västerås,Västmanland,59.674702,16.722464
 Torup,Hylte,Halland,56.953542,13.074462
 Totebo,Västervik,Kalmar,57.631865,16.182809
 Tranemo,Tranemo,Västra Götaland,57.490491,13.431046
@@ -1617,7 +1617,7 @@ Tösse,Åmål,Västra Götaland,58.971904,12.644860
 Ubbhult norra,Mark,Västra Götaland,57.580985,12.354719
 Ucklum,Stenungsund,Västra Götaland,58.084444,11.956919
 Uddebo,Tranemo,Västra Götaland,57.474595,13.263325
-Uddeholm,Hagfor,Värmland,60.024766,13.619007
+Uddeholm,Hagfors,Värmland,60.024766,13.619007
 Udden,Eskilstuna,Västra Götaland,58.839547,11.079480
 Uddevalla,Uddevalla,Västra Götaland,58.349055,11.938285
 Uddheden,Sunne,Värmland,59.945983,12.910784
@@ -1661,7 +1661,7 @@ Valskog,Kungsör,Västmanland,59.444012,15.949726
 Vankiva,Hässleholm,Skåne,56.200364,13.741501
 Vannsätter,Söderhamn,Gävleborg,61.260800,16.788084
 Vansbro,Vansbro,Dalarna,60.461057,14.259809
-Vansö kyrkby,Strängnä,Södermanland,59.405653,16.940407
+Vansö kyrkby,Strängnäs,Södermanland,59.405653,16.940407
 Vaplan,Krokom,Jämtland,63.335505,14.215024
 Vara,Vara,Västra Götaland,58.249026,13.101598
 Varberg,Varberg,Halland,57.105741,12.250294
@@ -1751,8 +1751,8 @@ Väländan,Haninge,Stockholm,59.112957,17.987988
 Vänersborg,Vänersborg,Västra Götaland,58.443364,12.360981
 Väne-Åsaka,Trollhättan,Västra Götaland,58.247085,12.420240
 Vänge,Uppsala,Uppsala,59.858646,17.430238
-Vännäsby,Vännä,Västerbotten,63.914888,19.824866
-Vännäs,Vännä,Västerbotten,63.940872,19.702571
+Vännäsby,Vännäs,Västerbotten,63.914888,19.824866
+Vännäs,Vännäs,Västerbotten,63.940872,19.702571
 Väring,Skövde,Västra Götaland,58.511243,13.960835
 Värmlandsbro,Säffle,Värmland,59.181513,13.014790
 Värnamo,Värnamo,Jönköping,57.185213,14.041217
@@ -1771,7 +1771,7 @@ Västerljung,Trosa,Södermanland,58.921333,17.447492
 Västerlösa,Linköping,Östergötland,58.422555,15.350139
 Västermyckeläng,Älvdalen,Dalarna,61.212874,14.031354
 Västervik,Västervik,Kalmar,57.759418,16.638503
-Västerås,Västerå,Västmanland,59.611099,16.546367
+Västerås,Västerås,Västmanland,59.611099,16.546367
 Västra Bispgården,Ragunda,Jämtland,63.024153,16.635490
 Västra Hagen,Kungsbacka,Halland,57.421668,11.940857
 Västra Husby,Söderköping,Östergötland,58.486862,16.172054
@@ -1796,7 +1796,7 @@ Zinkgruvan,Askersund,Örebro,58.815435,15.106626
 Åhus,Kristianstad,Skåne,55.923516,14.295522
 Åkarp,Burlöv,Skåne,55.876893,13.136220
 Åkersberga,Österåker,Stockholm,59.482351,18.294398
-Åkers styckebruk,Strängnä,Södermanland,59.256441,17.108021
+Åkers styckebruk,Strängnäs,Södermanland,59.256441,17.108021
 Ålberga,Nyköping,Södermanland,58.725042,16.580952
 Åled,Halmstad,Halland,56.742381,12.947557
 Åminne,Värnamo,Gotland,57.612497,18.761462
@@ -1881,7 +1881,7 @@ Zinkgruvan,Askersund,Örebro,58.815435,15.106626
 Örslösa,Lidköping,Västra Götaland,58.508818,13.004258
 Örsundsbro,Enköping,Uppsala,59.731978,17.302278
 Örsundsbro norra,Enköping,Uppsala,59.731978,17.302278
-Örtagården,Västerå,Västra Götaland,57.681304,11.952412
+Örtagården,Västerås,Västra Götaland,57.681304,11.952412
 Örtofta,Eslöv,Skåne,55.778322,13.243988
 Örviken,Skellefteå,Västerbotten,64.668952,21.179696
 Ösmo,Nynäshamn,Stockholm,58.982826,17.896191
